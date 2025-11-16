@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_hardware_oplus",
+    "target_path": "hardware/oplus"
+  },
+  {
+    "repository": "android_device_oppo_OP4E9F-kernel",
+    "target_path": "device/oppo/OP4E9F-kernel"
+  }
+]
