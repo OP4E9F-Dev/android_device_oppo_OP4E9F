@@ -43,6 +43,7 @@ PRODUCT_PACKAGES += \
     audio.bluetooth.default \
     audio.r_submix.default \
     audio.usb.default \
+    audio.primary.lito \
     liba2dpoffload \
     libbatterylistener \
     libcomprcapture \
@@ -53,6 +54,7 @@ PRODUCT_PACKAGES += \
     libqcomvisualizer \
     libqcomvoiceprocessing \
     libsndmonitor \
+    libssrec \
     libspkrprot \
     libvolumelistener
 
@@ -129,6 +131,8 @@ PRODUCT_PACKAGES += \
     libdisplayconfig.system.qti \
     libqdMetaData \
     libqdMetaData.system \
+    libqdutils \
+    libsdedrm \
     libsdmcore \
     libsdmutils \
     libtinyxml \
