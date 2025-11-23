@@ -254,7 +254,6 @@ vendor/lib/libcamxswprocessalgo.so
 vendor/lib/libcamxtintlessalgo.so
 vendor/lib/libchilog.so
 vendor/lib/libcom.qti.chinodeutils.so
-vendor/lib/libdisplayconfig.qti.so
 vendor/lib/libgralloc.qti.so
 vendor/lib/libmidasserviceintf.so
 vendor/lib/libmmcamera_faceproc.so
