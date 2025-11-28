@@ -105,7 +105,6 @@ vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so
 vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so
 vendor/lib64/vendor.qti.hardware.fm@1.0.so
 
-
 # Camera
 lib/vendor.oplus.hardware.cammidasservice@1.0.so
 lib64/vendor.oplus.hardware.cammidasservice@1.0.so
@@ -254,7 +253,6 @@ vendor/lib/libcamxswprocessalgo.so
 vendor/lib/libcamxtintlessalgo.so
 vendor/lib/libchilog.so
 vendor/lib/libcom.qti.chinodeutils.so
-vendor/lib/libgralloc.qti.so
 vendor/lib/libmidasserviceintf.so
 vendor/lib/libmmcamera_faceproc.so
 vendor/lib/libmmcamera_faceproc2.so
