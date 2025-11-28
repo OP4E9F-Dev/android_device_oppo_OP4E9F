@@ -60,6 +60,12 @@
         <fqname>@1.2::IDevice/qti-hta</fqname>
     </hal>
     <hal format="hidl">
+        <name>android.hardware.radio</name>
+        <transport>hwbinder</transport>
+        <fqname>@1.5::IRadio/slot1</fqname>
+        <fqname>@1.5::IRadio/slot2</fqname>
+    </hal>
+    <hal format="hidl">
         <name>android.hardware.radio.config</name>
         <transport>hwbinder</transport>
         <fqname>@1.1::IRadioConfig/default</fqname>
