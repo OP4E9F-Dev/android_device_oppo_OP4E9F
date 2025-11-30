@@ -319,4 +319,5 @@
         <ctl name="EC Reference Bit Format" value="S16_LE"/>
         <ctl name="EC Reference SampleRate" value="48000"/>
     </path>
+
 </mixer>
