@@ -58,6 +58,10 @@ function blob_fixup() {
         vendor/lib64/libril-qc-hal-qmi.so)
             "${PATCHELF}" --add-needed "libshims_ocsclk.so" "${2}"
             ;;
+         vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so)
+            [ "$2" = "" ] && return 0
+            "${SIGSCAN}" -p "AB 0B 00 94" -P "1F 20 03 D5" -f "${2}"
+            ;;
     esac
 }
 
