@@ -56,6 +56,22 @@
         <item>/system/lib64/libsurfaceflinger.so</item>
         <item>/apex/com.android.art/javalib/core-oj.jar</item>
         <item>/apex/com.android.art/javalib/core-libart.jar</item>
+        <item>/apex/com.android.vndk.v30/lib64/libbacktrace.so</item>
+        <item>/apex/com.android.vndk.v30/lib64/liblzma.so</item>
+        <item>/apex/com.android.vndk.v30/lib64/libunwindstack.so</item>
+        <item>/apex/com.android.vndk.v30/lib64/libutilscallstack.so</item>
+        <item>/apex/com.android.vndk.v30/lib64/android.hardware.camera.device@1.0.so</item>
+        <item>/apex/com.android.vndk.v30/lib64/android.hardware.camera.device@3.2.so</item>
+        <item>/apex/com.android.vndk.v30/lib64/android.hardware.camera.device@3.3.so</item>
+        <item>/apex/com.android.vndk.v30/lib64/android.hardware.camera.device@3.4.so</item>
+        <item>/apex/com.android.vndk.v30/lib64/android.hardware.camera.device@3.5.so</item>
+        <item>/apex/com.android.vndk.v30/lib64/android.hardware.camera.device@3.6.so</item>
+        <item>/vendor/lib64/vendor.qti.hardware.perf@2.0.so</item>
+        <item>/vendor/lib64/vendor.qti.hardware.display.mapper@1.0.so</item>
+        <item>/vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so</item>
+        <item>/vendor/lib64/libcamerapostproc.so</item>
+        <item>/vendor/lib64/libCB.so</item>
+        <item>/vendor/lib64/libllvm-qcom.so</item>
     </string-array>
 
      <!-- List of biometric sensors on the device, in decreasing strength. Consumed by AuthService
