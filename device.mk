@@ -220,6 +220,7 @@ PRODUCT_PACKAGES += \
     init.qcom.rc \
     init.target.rc \
     init.recovery.qcom.rc \
+    ueventd.oplus.rc \
     ueventd.qcom.rc
 
 # Keymaster
