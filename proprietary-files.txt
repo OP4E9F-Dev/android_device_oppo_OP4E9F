@@ -440,7 +440,7 @@ odm/lib64/camera/components/com.oplus.node.eisrecord.so
 odm/lib64/camera/components/com.oplus.node.preview.so
 odm/lib64/camera/components/com.oplus.node.videoenhance.so
 odm/lib64/camera/components/com.qti.node.remosaic.so
-odm/lib64/camera/components/com.qti.stats.afd.so;SYMLINK=/vendor/lib64/camera/components/com.qti.stats.afd.so
+odm/lib64/camera/components/com.qti.stats.afd.so;SYMLINK=vendor/lib64/camera/components/com.qti.stats.afd.so
 odm/lib64/camera/com.qti.sensor.hi846.so
 odm/lib64/camera/com.qti.sensor.imx615.so
 odm/lib64/camera/com.qti.sensor.ov02b.so
