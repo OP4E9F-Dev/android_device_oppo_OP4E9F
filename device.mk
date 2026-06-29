@@ -298,8 +298,11 @@ PRODUCT_COPY_FILES += \
 
 # QMI
 PRODUCT_PACKAGES += \
+    libcurl.vendor \
     libjson \
+    libjsoncpp.vendor \
     libqti_vndfwk_detect.vendor \
+    libsqlite.vendor \
     libvndfwk_detect_jni.qti.vendor
 
 # RIL
@@ -323,6 +326,7 @@ PRODUCT_COPY_FILES += \
 # Sensors
 PRODUCT_PACKAGES += \
     android.hardware.sensors@2.0-service.multihal \
+    libdumpstateutil.vendor \
     libsensorndkbridge
 
 PRODUCT_COPY_FILES += \
@@ -429,6 +433,7 @@ PRODUCT_COPY_FILES += \
 # WiFi Display
 PRODUCT_PACKAGES += \
     libnl \
+    libpng.vendor \
     libwfdaac_vendor
 
 PRODUCT_BOOT_JARS += \
